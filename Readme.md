@@ -1,2 +1,2 @@
-#Discord [Activity] Spell Cast
+# Discord [Activity] Spell Cast
 - Spelling Solve
